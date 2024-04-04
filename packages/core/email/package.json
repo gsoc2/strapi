@@ -54,9 +54,9 @@
   },
   "dependencies": {
     "@strapi/design-system": "1.13.1",
-    "@strapi/helper-plugin": "4.15.4",
+    "@strapi/helper-plugin": "4.0.0",
     "@strapi/icons": "1.13.0",
-    "@strapi/provider-email-sendmail": "4.15.4",
+    "@strapi/provider-email-sendmail": "4.0.0",
     "@strapi/utils": "4.15.4",
     "lodash": "4.17.21",
     "prop-types": "^15.8.1",
